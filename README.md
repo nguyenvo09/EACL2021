@@ -21,13 +21,13 @@ python Masters/master_mac.py --dataset="Snopes" \
                              --loss_type="cross_entropy" \
                              --batch_size=32 \
                              --num_folds=5 \
-							 --use_claim_source=0 \
-							 --use_article_source=1 \
-							 --num_att_heads_for_words=5 \
-							 --num_att_heads_for_evds=2 \
+                             --use_claim_source=0 \
+                             --use_article_source=1 \
+                             --num_att_heads_for_words=5 \
+                             --num_att_heads_for_evds=2 \
                              --path="../formatted_data/declare/" \
                              --hidden_size=300 \
-							 --epochs=100
+                             --epochs=100
 ```
 
 ## 2.2 Running experiment for PolitiFact dataset (Table 3)
