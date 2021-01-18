@@ -2,7 +2,7 @@
 This is the repository to reproduce results in the paper
 "Hierarchical Multi-head Attentive Network for Evidence-aware Fake News Detection", EACL 2021.  
 # Hierarchical Multi-head Attentive Network
-![alt text](https://github.com/nguyenvo09/EACL2021/blob/master/examples/mac.png)
+![alt text](https://github.com/nguyenvo09/EACL2021/blob/main/examples/mac.png)
 
 
 # Citation
