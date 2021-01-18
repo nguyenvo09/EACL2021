@@ -29,6 +29,11 @@ python MasterFC/master_mac.py --dataset="Snopes" \
                              --hidden_size=300 \
                              --epochs=100
 ```
+or you can simply run the following script in your terminal
+```
+./run.sh
+```
+
 You can get following results in log:
 ```
 |Epoch 000 | Train time: 16.1(s) | Train loss: 67.254| Val F1_macro = 0.659 | Vad AUC = 0.74845 | Val F1 = 0.49091 | Val F1_micro = 0.741 | Validation time: 05.7(s)
