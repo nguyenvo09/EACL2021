@@ -8,7 +8,6 @@ from matchzoo.engine.base_preprocessor import BasePreprocessor
 from .build_vocab_unit import build_vocab_unit
 from .build_unit_from_data_pack import build_unit_from_data_pack
 from .chain_transform import chain_transform
-from handlers.output_handler import FileHandler
 from typing import List
 import torch
 import itertools, os

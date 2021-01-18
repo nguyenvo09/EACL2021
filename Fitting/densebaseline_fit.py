@@ -14,9 +14,7 @@ import datetime
 import json
 import matchzoo
 import interactions
-from handlers.output_handler import FileHandler
 from handlers.tensorboard_writer import TensorboardWrapper
-from matchzoo.preprocessors.tfidf_preprocessor import TFIDF
 from setting_keywords import KeyWordSettings
 from matchzoo.metrics import average_precision, discounted_cumulative_gain, \
     mean_average_precision, mean_reciprocal_rank, normalized_discounted_cumulative_gain, precision

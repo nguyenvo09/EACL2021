@@ -5,7 +5,6 @@ from Models import base_model
 import torch_utils as my_utils
 import time
 import interactions
-from handlers.output_handler import FileHandler
 from handlers.tensorboard_writer import TensorboardWrapper
 from setting_keywords import KeyWordSettings
 from Fitting.FittingFC.multi_level_attention_composite_fitter import MultiLevelAttentionCompositeFitter
