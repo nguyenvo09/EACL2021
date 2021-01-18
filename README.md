@@ -41,13 +41,13 @@ python Masters/master_mac.py --dataset="Politifact" \
                              --loss_type="cross_entropy" \
                              --batch_size=32 \
                              --num_folds=5 \
-							 --use_claim_source=1 \
-							 --use_article_source=1 \
-							 --num_att_heads_for_words=3 \
-							 --num_att_heads_for_evds=1 \
+                             --use_claim_source=1 \
+                             --use_article_source=1 \
+                             --num_att_heads_for_words=3 \
+                             --num_att_heads_for_evds=1 \
                              --path="../formatted_data/declare/" \
                              --hidden_size=300 \
-							 --epochs=100
+                             --epochs=100
 ```
 
 # Citation
