@@ -13,7 +13,7 @@ pip install requirements.txt
 ## 2.1 Running experiment for Snopes dataset (Table 2)
 ```
 mkdir logs
-python Masters/master_mac.py --dataset="Snopes" \
+python MasterFC/master_mac.py --dataset="Snopes" \
                              --cuda=1 \
                              --fixed_length_left=30 \
                              --fixed_length_right=100 \
@@ -46,7 +46,7 @@ You can get following results in log:
 ## 2.2 Running experiment for PolitiFact dataset (Table 3)
 ```
 mkdir logs
-python Masters/master_mac.py --dataset="Politifact" \
+python MasterFC/master_mac.py --dataset="Politifact" \
                              --cuda=1 \
                              --fixed_length_left=30 \
                              --fixed_length_right=100 \
