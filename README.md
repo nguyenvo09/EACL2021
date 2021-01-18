@@ -63,7 +63,7 @@ python MasterFC/master_mac.py --dataset="Politifact" \
                              --epochs=100
 ```
 
-# An example of attentin heads
+# An example of attention heads
 ![alt text](https://github.com/nguyenvo09/EACL2021/blob/main/examples/attention_heads.png)
 
 # Citation
