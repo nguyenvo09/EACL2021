@@ -1,5 +1,6 @@
 import sys
 sys.path.insert(0, '../../EACL2021')
+sys.path.insert(0, '../EACL2021')
 
 from Models.FCWithEvidences import hierachical_multihead_attention
 from Fitting.FittingFC import char_man_fitter_query_repr1
