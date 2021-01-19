@@ -72,7 +72,7 @@ python MasterFC/master_mac.py --dataset="Politifact" \
 ![alt text](https://github.com/nguyenvo09/EACL2021/blob/main/examples/attention_heads.png)
 
 # Citation
-If you feel our paper and resources are useful, please cite our work as follows:
+If you feel our paper and resources are useful, please consider citing our work as follows:
 
 ```
 @inproceedings{vo2021multihead,
