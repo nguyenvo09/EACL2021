@@ -25,7 +25,7 @@ python MasterFC/master_mac.py --dataset="Snopes" \
                              --use_article_source=1 \
                              --num_att_heads_for_words=5 \
                              --num_att_heads_for_evds=2 \
-                             --path="../formatted_data/declare/" \
+                             --path="formatted_data/declare/" \
                              --hidden_size=300 \
                              --epochs=100
 ```
@@ -63,7 +63,7 @@ python MasterFC/master_mac.py --dataset="Politifact" \
                              --use_article_source=1 \
                              --num_att_heads_for_words=3 \
                              --num_att_heads_for_evds=1 \
-                             --path="../formatted_data/declare/" \
+                             --path="formatted_data/declare/" \
                              --hidden_size=300 \
                              --epochs=100
 ```
