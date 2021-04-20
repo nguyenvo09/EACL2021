@@ -8,7 +8,7 @@ This is the repository to reproduce results in the paper
 ## 1. Install required packages
 We use Pytorch 0.4.1 and python 3.5. 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 ## 2.1 Running experiment for Snopes dataset (Table 2)
 ```
