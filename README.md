@@ -82,3 +82,5 @@ If you feel our paper and resources are useful, please consider citing our work 
 	year={2021}
 }
 ```
+# Slides of our talk at EACL 2021
+https://slideslive.com/38954385/hierarchical-multihead-attentive-network-for-evidenceaware-fake-news-detection 
